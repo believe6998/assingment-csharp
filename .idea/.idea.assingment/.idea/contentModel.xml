@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Believe\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Believe\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_assingment.1705548717.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Believe\RiderProjects\assingment" t="IncludeFlat">
+      <e p="assingment" t="IncludeRecursive">
+        <e p="assingment.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="controller" t="Include" />
+        <e p="entity" t="Include">
+          <e p="BlockchainAddress.cs" t="Include" />
+          <e p="BlockchainTransaction.cs" t="Include" />
+          <e p="SHBAccount.cs" t="Include" />
+          <e p="SHBTransaction.cs" t="Include" />
+        </e>
+        <e p="model" t="Include">
+          <e p="BlockchainAddressModel.cs" t="Include" />
+          <e p="ConnectionHelper.cs" t="Include" />
+          <e p="GiaoDichBlockchain.cs" t="Include" />
+          <e p="GiaoDichSHB.cs" t="Include" />
+          <e p="SHBAccountModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="assingment.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="assingment.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

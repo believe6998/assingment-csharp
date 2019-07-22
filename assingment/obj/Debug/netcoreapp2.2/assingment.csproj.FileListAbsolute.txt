@@ -1,0 +1,11 @@
+C:\Users\Believe\RiderProjects\assingment\assingment\bin\Debug\netcoreapp2.2\assingment.deps.json
+C:\Users\Believe\RiderProjects\assingment\assingment\bin\Debug\netcoreapp2.2\assingment.runtimeconfig.json
+C:\Users\Believe\RiderProjects\assingment\assingment\bin\Debug\netcoreapp2.2\assingment.runtimeconfig.dev.json
+C:\Users\Believe\RiderProjects\assingment\assingment\bin\Debug\netcoreapp2.2\assingment.dll
+C:\Users\Believe\RiderProjects\assingment\assingment\bin\Debug\netcoreapp2.2\assingment.pdb
+C:\Users\Believe\RiderProjects\assingment\assingment\obj\Debug\netcoreapp2.2\assingment.csprojAssemblyReference.cache
+C:\Users\Believe\RiderProjects\assingment\assingment\obj\Debug\netcoreapp2.2\assingment.csproj.CoreCompileInputs.cache
+C:\Users\Believe\RiderProjects\assingment\assingment\obj\Debug\netcoreapp2.2\assingment.AssemblyInfoInputs.cache
+C:\Users\Believe\RiderProjects\assingment\assingment\obj\Debug\netcoreapp2.2\assingment.AssemblyInfo.cs
+C:\Users\Believe\RiderProjects\assingment\assingment\obj\Debug\netcoreapp2.2\assingment.dll
+C:\Users\Believe\RiderProjects\assingment\assingment\obj\Debug\netcoreapp2.2\assingment.pdb
